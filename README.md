@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 - 🤔 **I’m looking for help with:** Ai Based Project
 - 💬 **Ask me about:** Collaboration.
 - 📫 **How to reach me:** hawladaranik325@gmail.com
-- 😄 **Pronouns:** Still Student
+- 😄 **Profession:** Still Student
 - ⚡ **Fun fact:** I code Tech and codes Love Me
 
 
