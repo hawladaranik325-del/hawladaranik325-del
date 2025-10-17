@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<img width="1472" height="574" alt="37f44c23-ea9a-4526-b952-2a2f05ef351a" src="https://github.com/user-attachments/assets/830bd5e9-f064-496f-96c6-ac5f271d55c9" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawladaranik325-del&label=Profile%20views&color=0e75b6&style=flat" alt="hawladaranik325-del" /> </p>
    <image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 # 💫 Hi 👋, I'm Anik Hawladar
