@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hawladaranik325-del&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+(https://github-profile-trophy.vercel.app/?username=hawladaranik325-del&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <!-- Snake Game Repo View -->
