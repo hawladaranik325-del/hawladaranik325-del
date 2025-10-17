@@ -1,3 +1,6 @@
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawladaranik325-del&label=Profile%20views&color=0e75b6&style=flat" alt="hawladaranik325-del" /> </p>
 # 💫 Hi 👋, I'm Anik Hawladar
 
 Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or Anything Else. 
