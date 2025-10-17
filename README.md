@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 - 💬 **Ask me about:** Collaboration.
 - 📫 **How to reach me:** hawladaranik325@gmail.com
 - 😄 **Profession:** Still Student
-- ⚡ **Fun fact:** I code Tech and codes Love Me
+- ⚡ **Fun fact:** I love code and codes Love Me
 
 
 ## 🏆 GitHub Trophies
