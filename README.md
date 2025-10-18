@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawladaranik325-del&label=Profile%20views&color=0e75b6&style=flat" alt="hawladaranik325-del" /> </p>
    <image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-# 💫 Hi 👋, I'm Anik Hawladar
+#  💫 Hi 👋, I'm Anik Hawladar
 
 Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or Anything Else. 
 
