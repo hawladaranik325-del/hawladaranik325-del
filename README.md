@@ -19,7 +19,7 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 
 
 
-## 🌍 Social Contact
+## 🌍 Social Link's
 <a href="https://linkedin.com/in/anik hawladar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik hawladar" height="30" width="40" /></a>
 <a href="https://fb.com/anik hawladar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anik hawladar" height="30" width="40" /></a>
 <a href="https://instagram.com/coder_anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder_anik" height="30" width="40" /></a>
