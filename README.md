@@ -13,15 +13,17 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 - 😄 **Profession:** Still Student
 - ⚡ **Fun fact:** I love code and codes Love Me
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hawladaranik325-del&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
 ## 🌍 Social Contact
 <a href="https://linkedin.com/in/anik hawladar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik hawladar" height="30" width="40" /></a>
 <a href="https://fb.com/anik hawladar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anik hawladar" height="30" width="40" /></a>
 <a href="https://instagram.com/coder_anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder_anik" height="30" width="40" /></a>
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hawladaranik325-del&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 <!-- Snake Game Repo View -->
 <div align="center">
