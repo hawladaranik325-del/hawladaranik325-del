@@ -14,10 +14,31 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 - ⚡ **Fun fact:** I love code and codes Love Me
 
 
+
+
+
+<div align="center">
+    <img height="180em"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawladaranik325-del&theme=github_dark" />
+    <img height="180em"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hawladaranik325-del&theme=github_dark" />
+    <img height="180em"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hawladaranik325-del&theme=github_dark" />
+    <img height="180em"
+        src="http:github-profile-summary-cards.vercel.app/api/cards/stats?username=hawladaranik325-del&theme=github_dark" />
+    <img height="180em"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hawladaranik325-del&theme=github_dark&utcOffset=8" />
+</div>
+
+
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hawladaranik325-del&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🌍 Social Link's
 <a href="https://linkedin.com/in/anik hawladar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik hawladar" height="30" width="40" /></a>
@@ -30,8 +51,7 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hawladaranik325-del&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hawladaranik325-del&theme=dark&hide_border=false)<br/>
