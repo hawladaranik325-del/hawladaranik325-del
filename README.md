@@ -28,11 +28,16 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
         src="http:github-profile-summary-cards.vercel.app/api/cards/stats?username=hawladaranik325-del&theme=github_dark" />
     <img height="180em"
         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hawladaranik325-del&theme=github_dark&utcOffset=8" />
+
+![](https://github-readme-stats.vercel.app/api?username=hawladaranik325-del&theme=github_dark&include_all_commits=true&count_private=false)/>
+![](https://nirzak-streak-stats.vercel.app/?user=hawladaranik325-del&theme=github_dark&hide_border=false)/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hawladaranik325-del&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)/>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=hawladaranik325-del&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hawladaranik325-del&theme=radical&no-frame=false&no-bg=true&margin-w=4)
