@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 
 
 
-
+# 📊 GitHub Stats:
 <div align="center">
     <img height="180em"
         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawladaranik325-del&theme=github_dark" />
@@ -50,14 +50,6 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hawladaranik325-del&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hawladaranik325-del&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hawladaranik325-del&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
