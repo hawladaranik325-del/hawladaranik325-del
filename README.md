@@ -89,16 +89,14 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 📌 Digital Badges. </p>
 
   <a href="https://www.kaggle.com/certification/badges/anikhawladar/30" target="_blank">
-    <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/4c0ff902-c5fc-419a-8bba-90c7a6c092de" alt="" width="250"/>
+    <img  alt="image" src="https://github.com/user-attachments/assets/4c0ff902-c5fc-419a-8bba-90c7a6c092de"  width="100"/>
   </a>
-   
-<a href="https://api.badgr.io/public/assertions/vtOTWKi3QCmNhRO7zYS9YA" target="_blank">
-    <img src="https://api.badgr.io/public/assertions/vtOTWKi3QCmNhRO7zYS9YA/image" alt="" width="250"/>
+   <a href="https://www.kaggle.com/certification/badges/anikhawladar/38" target="_blank">
+     <img alt="image" src="https://github.com/user-attachments/assets/f44b8fa8-fe0f-451e-8df9-f59fd6462414" width="100"/>
   </a>
-  
-</p>
 
-
+🔸 Languages and Tools</h2>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">   <a href="https://www.python.org" target="_blank" rel="noreferrer">  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
