@@ -1,8 +1,26 @@
 <img width="1472" height="574" alt="37f44c23-ea9a-4526-b952-2a2f05ef351a" src="https://github.com/user-attachments/assets/830bd5e9-f064-496f-96c6-ac5f271d55c9" />
+<h1 align="center">Hi folks 👋, I'm Anik Hawladar 🧑‍💻</h1>
+<h3 align="center">A Developer | Python C++ DSA | CS Student | Aspiring AI Engine </h3>
+<p align="center">
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawladaranik325-del&label=Profile%20views&color=0e75b6&style=flat" alt="hawladaranik325-del" /> </p>
+   
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="gradient line" width="100%" height="15px">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawladaranik325-del&label=Profile%20views&color=0e75b6&style=flat" alt="hawladaranik325-del" /> </p>
-   <image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-#  💫 Hi 👋, I'm Anik Hawladar
+<image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+   
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hawladaranik325-del&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/> </div>
+
+
+
+<img align="right" alt="ironman" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png">
+
+<h2 align="left">
+
+
+🔸 About Me</h2>
+
+ 💫 Hi 👋, I'm Anik Hawladar
 
 Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or Anything Else. 
 
@@ -10,13 +28,30 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 - 🤔 **I’m looking for help with:** Ai Based Project
 - 💬 **Ask me about:** Collaboration.
 - 📫 **How to reach me:** hawladaranik325@gmail.com
-- 😄 **Profession:** currently a student in Computer Sicence & Technology in Diploma
+- 😄 **Profession:**  Developer | Python C++ DSA | CS Student | Aspiring AI Engine
 - ⚡ **Fun fact:** I love code and codes Love Me
 
 
+🔸 Connect With Me</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/anik-hawladar-0033a138b/?skipRedirect=true" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="100" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/coder_anik/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="100" alt="instagram logo"  />
+  </a>
+<!--   <a href="https://linktr.ee/Dhrubojyoti_Chakraborty" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a> -->
+  <a href="https://www.facebook.com/profile.php?id=61570612435204" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" height="100" alt="facebook logo"  />
+  
+<!--   <a href="mailto:dhrubojyotichakraborty69@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a> -->
+</div>
 
-
-# 📊 GitHub Stats:
+<h2 align="left"> 🔸GitHub Stats</h2>
 <div align="center">
     <img height="180em"
         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawladaranik325-del&theme=github_dark" />
@@ -38,27 +73,17 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 [![](https://visitcount.itsvg.in/api?id=hawladaranik325-del&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔸 Digital Badges</h1>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hawladaranik325-del&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-## 🌍 Social Link's
-<a href="https://linkedin.com/in/anik hawladar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik hawladar" height="30" width="40" /></a>
-<a href="https://fb.com/anik hawladar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anik hawladar" height="30" width="40" /></a>
-<a href="https://instagram.com/coder_anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder_anik" height="30" width="40" /></a>
-</p>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-3670A0?style=for-the-badge&logo=C++&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-
-📌 Digital Badges. </p>
-
+ <p align="left">📌 Google Cloud Completion Badges </p>
+ 
   <a href="https://www.kaggle.com/certification/badges/anikhawladar/30" target="_blank">
-    <img src="https://github.com/user-attachments/assets/70aa4429-7143-47a6-a475-0e1c38902852" alt="" width="100"/>
+<img  src="https://github.com/user-attachments/assets/9bc61a61-8bb8-475a-978b-af3262165fd2" alt="image" width="450"/>
   </a>
-       
+    <a href="https://www.kaggle.com/certification/badges/anikhawladar/38" target="_blank">
+<img src="https://github.com/user-attachments/assets/9cefa035-7531-433b-8ef4-597d2cd52f29"alt="image" width="450"/>
+  </a>
 </p>
 
 <!-- Snake Game Repo View -->
