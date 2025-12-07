@@ -53,8 +53,13 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-3670A0?style=for-the-badge&logo=C++&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 
-# 📛 Badges :
-<https://www.kaggle.com/certification/badges/anikhawladar/38>
+📌 Digital Badges. </p>
+
+  <a href="https://www.kaggle.com/certification/badges/anikhawladar/30" target="_blank">
+    <img src="https://cdn.qwiklabs.com/lJoP2%2Bt1vre2vOIYKvFMEUa218lRCf7UkpM%2BAeiMfVg%3D" alt="" width="250"/>
+  </a>
+   
+</p>
 
 <!-- Snake Game Repo View -->
 <div align="center">
