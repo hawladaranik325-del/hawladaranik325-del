@@ -89,7 +89,7 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 📌 Digital Badges. </p>
 
   <a href="https://www.kaggle.com/certification/badges/anikhawladar/30" target="_blank">
-    <img src="" alt="" width="250"/>
+    <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/4c0ff902-c5fc-419a-8bba-90c7a6c092de" alt="" width="250"/>
   </a>
    
 <a href="https://api.badgr.io/public/assertions/vtOTWKi3QCmNhRO7zYS9YA" target="_blank">
