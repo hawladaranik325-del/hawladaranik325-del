@@ -80,11 +80,24 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
  
   <a href="https://www.kaggle.com/certification/badges/anikhawladar/30" target="_blank">
 <img  src="https://github.com/user-attachments/assets/9bc61a61-8bb8-475a-978b-af3262165fd2" alt="image" width="450"/>
+ 
   </a>
     <a href="https://www.kaggle.com/certification/badges/anikhawladar/38" target="_blank">
 <img src="https://github.com/user-attachments/assets/9cefa035-7531-433b-8ef4-597d2cd52f29"alt="image" width="450"/>
   </a>
 </p>
+📌 Digital Badges. </p>
+
+  <a href="https://www.kaggle.com/certification/badges/anikhawladar/30" target="_blank">
+    <img src="" alt="" width="250"/>
+  </a>
+   
+<a href="https://api.badgr.io/public/assertions/vtOTWKi3QCmNhRO7zYS9YA" target="_blank">
+    <img src="https://api.badgr.io/public/assertions/vtOTWKi3QCmNhRO7zYS9YA/image" alt="" width="250"/>
+  </a>
+  
+</p>
+
 
 <!-- Snake Game Repo View -->
 <div align="center">
