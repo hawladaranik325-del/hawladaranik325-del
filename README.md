@@ -58,7 +58,7 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
   <a href="https://www.kaggle.com/certification/badges/anikhawladar/30" target="_blank">
     <img src="https://github.com/user-attachments/assets/70aa4429-7143-47a6-a475-0e1c38902852" alt="" width="100"/>
   </a>
-   
+       
 </p>
 
 <!-- Snake Game Repo View -->
