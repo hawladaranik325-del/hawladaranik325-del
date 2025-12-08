@@ -8,6 +8,7 @@
 </p>
 
 <image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+
    
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hawladaranik325-del&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/> </div>
 
@@ -53,16 +54,11 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 
 <h2 align="left"> 🔸GitHub Stats</h2>
 <div align="center">
-    <img height="180em"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawladaranik325-del&theme=github_dark" />
-    <img height="180em" 
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hawladaranik325-del&theme=github_dark" />
-    <img height="180em"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hawladaranik325-del&theme=github_dark" />
-    <img height="180em"
-        src="http:github-profile-summary-cards.vercel.app/api/cards/stats?username=hawladaranik325-del&theme=github_dark" />
-    <img height="180em"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hawladaranik325-del&theme=github_dark&utcOffset=8" />
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawladaranik325-del&theme=github_dark" />
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hawladaranik325-del&theme=github_dark" />
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hawladaranik325-del&theme=github_dark" />
+    <img height="180em" src="http:github-profile-summary-cards.vercel.app/api/cards/stats?username=hawladaranik325-del&theme=github_dark" />
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hawladaranik325-del&theme=github_dark&utcOffset=8" />
 
 ![](https://github-readme-stats.vercel.app/api?username=hawladaranik325-del&theme=github_dark&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=hawladaranik325-del&theme=github_dark&hide_border=false)
