@@ -55,7 +55,7 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 <div align="center">
     <img height="180em"
         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawladaranik325-del&theme=github_dark" />
-    <img height="180em"
+    <img height="180em" 
         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hawladaranik325-del&theme=github_dark" />
     <img height="180em"
         src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hawladaranik325-del&theme=github_dark" />
