@@ -103,6 +103,11 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
    <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+      <a href="https://github.com/vscode-icons/vscode-icons/default.asp" target="_blank" rel="noreferrer"> 
+         <a href="https://code.visualstudio.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"alt="vscode" width="40" height="40">
+</a>
+
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
