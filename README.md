@@ -9,11 +9,7 @@
 
 <image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-   
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hawladaranik325-del&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/> </div>
 
-
-<img align="right" alt="ironman" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png">
 
 <h2 align="left">
 
@@ -71,7 +67,7 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 🔸 Digital Badges</h1>
 </div>
 
- <p align="left">📌 Google Cloud Completion Badges </p>
+ <p align="left">📌 Google Cloud / Kaggle Completion Badges </p>
  
   <a href="https://www.kaggle.com/certification/badges/anikhawladar/30" target="_blank">
 <img  src="https://github.com/user-attachments/assets/9bc61a61-8bb8-475a-978b-af3262165fd2" alt="image" width="450"/>
