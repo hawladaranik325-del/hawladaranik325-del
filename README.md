@@ -76,6 +76,9 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
     <a href="https://www.kaggle.com/certification/badges/anikhawladar/38" target="_blank">
 <img src="https://github.com/user-attachments/assets/9cefa035-7531-433b-8ef4-597d2cd52f29"alt="image" width="450"/>
   </a>
+    <a href="https://www.kaggle.com/certification/badges/anikhawladar/38" target="_blank">
+<img src="https://media.licdn.com/dms/image/v2/D5622AQHbHYCrkF8dcA/feedshare-shrink_2048_1536/B56Z0335DhJkAg-/0/1774758892059?e=1777507200&v=beta&t=s5F7Ulbx8-rQMoDm0OIDx8K0nVQKGo_zIKMOgNbkrs4"alt="image" width="450"/>
+  </a>
 </p>
 📌 Digital Badges. </p>
 
