@@ -80,10 +80,9 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 <img  src="https://github.com/user-attachments/assets/9bc61a61-8bb8-475a-978b-af3262165fd2" alt="image" width="450"/>
  
   </a>
-    <a href="https://www.kaggle.com/certification/badges/anikhawladar/38" target="_blank">
-<img src="https://github.com/user-attachments/assets/9cefa035-7531-433b-8ef4-597d2cd52f29"alt="image" width="450"/>
+  <a href="https://www.kaggle.com/certification/badges/anikhawladar/38" target="_blank"> <img src="https://github.com/user-attachments/assets/9cefa035-7531-433b-8ef4-597d2cd52f29"alt="image" width="450"/>
   </a>
-    <a href="https://www.kaggle.com/certification/badges/anikhawladar/38" target="_blank">
+         <a href="https://www.kaggle.com/certification/badges/anikhawladar/38" target="_blank">
 <img src="https://media.licdn.com/dms/image/v2/D5622AQHbHYCrkF8dcA/feedshare-shrink_2048_1536/B56Z0335DhJkAg-/0/1774758892059?e=1777507200&v=beta&t=s5F7Ulbx8-rQMoDm0OIDx8K0nVQKGo_zIKMOgNbkrs4"alt="image" width="450"/>
   </a>
 </p>
@@ -98,19 +97,13 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 
 🔸 Languages and Tools</h2>
 <p align="left"> 
-   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/python/default.asp" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-   <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+   <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+   <a href="https://www.w3schools.com/python/default.asp" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+   <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
       <a href="https://github.com/vscode-icons/vscode-icons/default.asp" target="_blank" rel="noreferrer"> 
-         <a href="https://code.visualstudio.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"alt="vscode" width="40" height="40">
+         <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"alt="vscode" width="40" height="40">
 </a>
 
 <!-- Snake Game Repo View -->
