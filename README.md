@@ -64,6 +64,13 @@ Email Me 👉 ✉️ **hawladaranik325@gmail.com** For Collaboration/Project or 
 [![](https://visitcount.itsvg.in/api?id=hawladaranik325-del&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h2 align="left">🔸 Contribution Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hawladaranik325-del&bg_color=0d1117&color=daa520&line=39ff14&point=39ff14&area=true&hide_border=true" />
+</div>
+
+<h2 align="left">
 🔸 Digital Badges</h1>
 </div>
 
